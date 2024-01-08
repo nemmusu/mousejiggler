@@ -33,7 +33,7 @@ Questo programma è un MouseJiggler per ATmega32u4. Un MouseJiggler è un dispos
 5. **Verificare il caricamento**  
    Puoi verificare se il caricamento è stato eseguito con successo controllando la console di output dell'IDE. Dovresti vedere un messaggio che dice `Caricamento completato`.
 
-6. **Utilizzo**
+6. **Utilizzo**  
    Ora, ogni volta che colleghi ATmega32u4 al PC, il programma MouseJiggler verrà eseguito automaticamente. Ricorda che MouseJiggler è progettato per simulare il movimento del mouse e può essere utilizzato per evitare che il tuo PC vada in modalità standby o schermata di blocco per inattività.
 
 
