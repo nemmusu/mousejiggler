@@ -8,7 +8,7 @@
 
 Questo programma è un MouseJiggler per ATmega32u4. Un MouseJiggler è un dispositivo che mantiene l'attività del mouse per impedire al computer di entrare in modalità di sospensione o standby. Questo programma fa muovere il mouse avanti e indietro su un percorso di 2 pixel ogni 6,2 secondi.
 
-## Come caricare il file mousejiggler.ino su ATmega32u4
+## Come caricare il file `mousejiggler.ino` su ATmega32u4
 
 ### Requisiti
 
@@ -21,13 +21,13 @@ Questo programma è un MouseJiggler per ATmega32u4. Un MouseJiggler è un dispos
 1. **Collegare la scheda con ATmega32u4 al tuo computer**  
    Usa il cavo USB per collegare la scheda ATmega32u4 al tuo computer.
 
-2. **Aprire il file .ino con Arduino IDE**  
-   Avvia Arduino IDE e vai su `File > Apri`. Naviga fino al file `mousejiggler.ino` che desideri caricare e fai clic su `Apri`.
+2. **Aprire il file `mousejiggler.ino` con Arduino IDE**  
+   Avvia Arduino IDE e vai su `File > Apri`. Naviga fino al file `mousejiggler.ino` e fai clic su `Apri`.
 
 3. **Selezionare la scheda e la porta**  
    Vai su `Strumenti > Scheda` e seleziona `ATmega32u4`. Successivamente, vai su `Strumenti > Porta` e seleziona la porta a cui è collegato il tuo ATmega32u4.
 
-4. **Caricare il file mousejiggler.ino sulla scheda**  
+4. **Caricare il file `mousejiggler.ino` sulla scheda**  
    Fai clic su `Sketch > Carica` o usa la combinazione di tasti `Ctrl+U`. L'IDE compilerà il codice e lo caricherà sulla scheda ATmega32u4.
 
 5. **Verificare il caricamento**  
