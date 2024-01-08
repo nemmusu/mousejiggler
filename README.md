@@ -1,3 +1,9 @@
+# Readme
+
+[Readme: Italiano](./README_IT.md)
+
+[Readme: English](./README.md)
+
 # MouseJiggler for Arduino Leonardo
 
 This program is a MouseJiggler for Arduino Leonardo. A MouseJiggler is a device that keeps mouse activity to prevent the computer from entering sleep or standby mode. This program moves the mouse back and forth along a 2-pixel path every 6.2 seconds.
